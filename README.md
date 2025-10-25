@@ -1,4 +1,4 @@
-# CS255 Systems Analysis and Design
+# CS255: Systems Analysis and Design
 
 ### Course Reflection:
 
